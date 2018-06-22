@@ -1,4 +1,4 @@
-import { Product } from './Product';
+import { Product } from './product';
 import { AVAILABLE_SIZES } from './available-sizes.enum';
 export class Dish extends Product {
   constructor(
